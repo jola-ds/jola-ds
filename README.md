@@ -46,5 +46,5 @@ to create targeted solutions that meet people where they are.
   
   ---
 
-Let’s collaborate or chat about shared obsessions!  
-[LinkedIn](https://www.linkedin.com/in/jola-moses) | [Email](jolamosesd@gmail.com)
+Let’s collaborate or chat about shared obsessions!
+[LinkedIn](https://www.linkedin.com/in/jola-moses)
