@@ -39,6 +39,7 @@ to create targeted solutions that meet people where they are.
 ---
 
 ### Projects
+
 - [Offline by Design: A Collaborative Data Science Project](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-24-repo)
 
 Explores the digital exclusion of disabled entrepreneurs in Sub-saharan Africa using a qualitative-driven mixed-methods approach (manual coding + NLP).
