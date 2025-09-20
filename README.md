@@ -2,35 +2,32 @@
 
 ## My Journey
 
-I started as a physiology student doing marketing on the side, with a gnawing
-sense of disillusionment.
-Something wasn’t right, but I didn’t know what to do next.  
+I’m a data science learner passionate about using data to understand people and
+optimize systems. My background in physiology and marketing sparked my curiosity
+about behaviour and decision-making, which I now pursue through the MIT Emerging
+Talent Data Science program.
 
-For my final project, I studied the relationship between diet and cognitive performance,
-handling small datasets, identifying key patterns, and presenting my findings.
-This opened my eyes to the power of data in understanding and improving human
-behaviour.  
+I’ve developed a foundation in Python, exploratory data analysis (EDA), machine
+learning, and research methods, and applied these skills to projects in health,
+digital inclusion, and other domains. These experiences continue to strengthen
+both my technical competence and my ability to ask meaningful questions of data.
 
-What I loved most about marketing was its emphasis on optimization—
-understanding where a persona was in their customer journey and using their
-digital footprints to create personalized and meaningful experiences.  
-
-## Finding my footing
-
-Currently, I’m pursuing data and computer science at MIT Emerging Talent.  
-My background nurtured a curiosity about neurobehaviour and business,
-while deepening my appreciation for how data creates impactful solutions across fields.
-
-I'm working toward building a solid foundation in data science
-to create targeted solutions that meet people where they are.
+Currently, I’m focused on sharpening my skills in Statistics, ML, and applied
+research.
 
 ---
 
 ### Tools
 
-- Python
-- Git & GitHub
-- VSCode
+- Programming & Analysis: Python (pandas, NumPy, matplotlib, seaborn, plotly)
+
+- Machine Learning: Scikit-learn
+
+- Version Control: Git, GitHub
+
+- Workflow: VS Code, Jupyter Notebook, Google Colab
+
+- Research: Research design, Qualitative analysis, Mixed-methods design & analysis
 
 ### Goal
 
@@ -38,24 +35,32 @@ to create targeted solutions that meet people where they are.
 
 ---
 
+### Data Analysis and Modelling
+
+- [EDA_ML_Notebooks](https://github.com/jola-ds/eda_and_ml_notebooks):
+This repository contains small-scale exploratory data analysis (EDA) and machine
+learning tasks.
+
 ### Projects
 
-- [Offline by Design: A Collaborative Data Science Project](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-24-repo)
+- [**Offline by Design: A Collaborative Data Science Project**](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-24-repo)  
+  Investigates the digital exclusion of disabled entrepreneurs in Sub-Saharan
+  Africa using a qualitative-driven mixed-methods approach (manual coding + NLP).
+  **Methods**: Python, NLP (TF-IDF, BERTopic), thematic analysis
 
-Explores the digital exclusion of disabled entrepreneurs in Sub-saharan Africa
-using a qualitative-driven mixed-methods approach (manual coding + NLP).
-
-- [Disease Diagnosis Prediction](https://github.com/jola-ds/disease-diagnosis)
-
-Baseline ML model predicting disease from patient-reported symptoms and demographics.
-Includes a synthetic dataset (~10k patient records) generated for reproducibility
-and epidemiological realism.
+- [**Disease Diagnosis Prediction**](https://github.com/jola-ds/disease-diagnosis)  
+  Originally developed during a hackathon, this project features a baseline ML
+  model predicting disease from patient-reported symptoms and demographics. It
+  includes a synthetic dataset (~10k patient records) generated for reproducibility
+  and epidemiological realism.  
+  **Methods**: Python, scikit-learn, pandas, NumPy, synthetic data generation
 
 ### About me, Unplugged
 
-- 🍵 Obsessed with tea
+- 🍵 Addicted to tea
 - 🇯🇵 Learning Japanese
-- 📚 Inspired by *If* by Rudyard Kipling and *Sweet Darkness* by David Whyte
+- 📚 Inspired by the poems, *If* by Rudyard Kipling and *Sweet Darkness* by
+  David Whyte
   
 ---
 
