@@ -1,6 +1,4 @@
-# Hello! I'm Jola :smile:
-
-## My Journey
+## Hello! I'm Jola :smile:
 
 I’m a data science learner passionate about using data to understand people and
 optimize systems. My background in physiology and marketing sparked my curiosity
@@ -46,6 +44,7 @@ learning tasks.
 - [**Offline by Design: A Collaborative Data Science Project**](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-24-repo)  
   Investigates the digital exclusion of disabled entrepreneurs in Sub-Saharan
   Africa using a qualitative-driven mixed-methods approach (manual coding + NLP).
+  
   **Methods**: Python, NLP (TF-IDF, BERTopic), thematic analysis
 
 - [**Disease Diagnosis Prediction**](https://github.com/jola-ds/disease-diagnosis)  
@@ -53,6 +52,7 @@ learning tasks.
   model predicting disease from patient-reported symptoms and demographics. It
   includes a synthetic dataset (~10k patient records) generated for reproducibility
   and epidemiological realism.  
+  
   **Methods**: Python, scikit-learn, pandas, NumPy, synthetic data generation
 
 ### About me, Unplugged
