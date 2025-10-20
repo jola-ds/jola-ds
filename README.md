@@ -41,11 +41,17 @@ learning tasks.
 
 ### Projects
 
+- [Bitcoin - Ethereum Pipeline & Analysis](https://github.com/jola-ds/crypto_portfolio_analysis)
+  A Python-based system for fetching, processing, and analysing cryptocurrency market
+  data with focus on comparative trend analysis, risk assessment, and correlation dynamics.
+
+  **Methods**: Python, API, Qualitative analysis
+
 - [**Offline by Design: A Collaborative Data Science Project**](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-24-repo)  
   Investigates the digital exclusion of disabled entrepreneurs in Sub-Saharan
   Africa using a qualitative-driven mixed-methods approach (manual coding + NLP).
   
-  **Methods**: Python, NLP (TF-IDF, BERTopic), thematic analysis
+  **Methods**: Python, NLP (TF-IDF, BERTopic), Thematic analysis
 
 - [**Disease Diagnosis Prediction**](https://github.com/jola-ds/disease-diagnosis)  
   Originally developed during a hackathon, this project features a baseline ML
