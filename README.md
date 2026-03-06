@@ -1,74 +1,36 @@
-## Hello! I'm Jola :smile:
+## Hi, I’m Jola!
 
-I’m a data science learner passionate about using data to understand people and
-optimize systems. My background in physiology and marketing sparked my curiosity
-about behaviour and decision-making, which I now pursue through the MIT Emerging
-Talent Data Science program.
+Data scientist exploring how data can illuminate human behaviour and optimise systems.
 
-I’ve developed a foundation in Python, exploratory data analysis (EDA), machine
-learning, and research methods, and applied these skills to projects in health,
-digital inclusion, and other domains. These experiences continue to strengthen
-both my technical competence and my ability to ask meaningful questions of data.
-
-Currently, I’m focused on sharpening my skills in Statistics, ML, and applied
-research.
+**Focus:**  
+- ML in Healthcare  
+- Product & Business Analytics  
+- Applied Research & Policy Analysis  
+- Social Impact
 
 ---
 
-### Tools
+### Tools & Skills
 
-- Programming & Analysis: Python (pandas, NumPy, matplotlib, seaborn, plotly)
-
-- Machine Learning: Scikit-learn
-
-- Version Control: Git, GitHub
-
-- Workflow: VS Code, Jupyter Notebook, Google Colab
-
-- Research: Research design, Qualitative analysis, Mixed-methods design & analysis
-
-### Goal
-
-- Build a portfolio of end-to-end data science projects
+- Python
+- SQL
+- Statistics
+- Research design, qualitative & mixed-methods research, data storytelling  
 
 ---
-
-### Data Analysis and Modelling
-
-- [EDA_ML_Notebooks](https://github.com/jola-ds/eda_and_ml_notebooks):
-This repository contains small-scale exploratory data analysis (EDA) and machine
-learning tasks.
 
 ### Projects
 
-- [Bitcoin - Ethereum Pipeline & Analysis](https://github.com/jola-ds/crypto_portfolio_analysis)
-  A Python-based system for fetching, processing, and analysing cryptocurrency market
-  data with focus on comparative trend analysis, risk assessment, and correlation dynamics.
+- **[KKBOX - Survival & Retention Analysis](https://github.com/jola-ds/retention-analysis)**   
 
-  **Methods**: Python, API, Qualitative analysis
+  *Tools:* Python, pandas, numPy, matplotlib, seaborn, scikit-learn, lifelines  
 
-- [**Offline by Design: A Collaborative Data Science Project**](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-24-repo)  
-  Investigates the digital exclusion of disabled entrepreneurs in Sub-Saharan
-  Africa using a qualitative-driven mixed-methods approach (manual coding + NLP).
-  
-  **Methods**: Python, NLP (TF-IDF, BERTopic), Thematic analysis
+- **[Evaluating the Fidelity, Privacy and Utility of Synthetic Health Data Generated from a Small Seed](https://github.com/jola-ds/synth-health-eval)**
 
-- [**Disease Diagnosis Prediction**](https://github.com/jola-ds/disease-diagnosis)  
-  Originally developed during a hackathon, this project features a baseline ML
-  model predicting disease from patient-reported symptoms and demographics. It
-  includes a synthetic dataset (~10k patient records) generated for reproducibility
-  and epidemiological realism.  
-  
-  **Methods**: Python, scikit-learn, pandas, NumPy, synthetic data generation
+  *Tools:* Python, CTGAN, SDV, scikit-learn , numpy, pandas, predictive modelling 
+- **[Bitcoin-Ethereum Pipeline & Comparative Analysis](https://github.com/jola-ds/crypto_portfolio_analysis)** 
 
-### About me, Unplugged
+  *Tools:* Python, APIs, quantative analysis  
+- **[The Digital Exclusion of Disabled Entrepreneurs in Sub-Saharan Africa](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-24-repo)** 
 
-- 🍵 Addicted to tea
-- 🇯🇵 Learning Japanese
-- 📚 Inspired by the poems, *If* by Rudyard Kipling and *Sweet Darkness* by
-  David Whyte
-  
----
-
-Let’s collaborate or chat about shared obsessions!
-[LinkedIn](https://www.linkedin.com/in/jola-moses)
+  *Tools:* Python, NLP (TF-IDF, BERTopic), thematic analysis
