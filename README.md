@@ -21,7 +21,7 @@ Data scientist exploring how data can illuminate human behaviour and optimise sy
 
 - **[KKBOX - Survival & Retention Analysis](https://github.com/jola-ds/retention-analysis)**   
 
-  *Tools:* Python, pandas, numPy, matplotlib, seaborn, scikit-learn, lifelines  
+  *Tools:* Python, SQL, pandas, numPy, matplotlib, seaborn, lifelines  
 
 - **[Evaluating the Fidelity, Privacy and Utility of Synthetic Health Data Generated from a Small Seed](https://github.com/jola-ds/synth-health-eval)**
 
