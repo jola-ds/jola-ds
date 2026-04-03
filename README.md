@@ -3,10 +3,8 @@
 Data scientist exploring how data can illuminate human behaviour and optimise systems.
 
 **Focus:**  
+- Product & Business Analytics
 - ML in Healthcare  
-- Product & Business Analytics  
-- Applied Research & Policy Analysis  
-- Social Impact
 
 ---
 
